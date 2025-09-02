@@ -30,4 +30,4 @@ print(f"{A} * {B} ={PRODUCT}")
 DIV= A / B
 
 #generate outcome
-print(f"{A} / {B} ={DIFF}")
+print(f"{A} / {B} ={DIV}")
